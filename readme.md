@@ -6,7 +6,7 @@ This is a tracker that lets you automatically format and classify transactions i
 
 ### Steps to use:
 
-1.download csv files from Standard chartered, UOB and DBS banks and copy them to the folder /bankfiles
+1. download csv files from Standard chartered, UOB and DBS banks and copy them to the folder /bankfiles
 
 2. run the batch file run.bat
 
