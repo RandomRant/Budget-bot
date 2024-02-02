@@ -6,12 +6,16 @@ This is a tracker that lets you automatically format and classify transactions i
 
 ### Steps to use:
 1.download csv files from Standard chartered, UOB and DBS banks and copy them to the folder /bankfiles
+
 2. run the batch file run.bat
+
 3. on a successful run, the formatted and classified transactions will be updated in masteretl.csv
 
-###Optional: 
+### Optional: 
 4. copy the records in masteretl.csv to 'financial tracker 2.0.xlsm' sheet 'expenses'
+
 5. edit the 'head' column in expenses to reflect your desired classifications. 
+
 6. uncomment the training code block in predhead.py to train a new model on your classifications
 
 
